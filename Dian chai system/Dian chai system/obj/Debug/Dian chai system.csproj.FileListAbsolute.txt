@@ -1,0 +1,16 @@
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\bin\Debug\Dian chai system.exe.config
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\bin\Debug\Dian chai system.exe
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\bin\Debug\Dian chai system.pdb
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.Properties.Resources.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian chai system.csproj.GenerateResource.Cache
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian chai system.exe
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian chai system.pdb
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\bin\Debug\MySql.Data.dll
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.Form5.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.商家管理界面.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.登录界面.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.注册界面.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.用户购买界面.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian chai system.csprojResolveAssemblyReference.cache
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.商家账号修改页面.resources
+D:\vs2012文档\网上学习\Dian chai system\Dian chai system\obj\Debug\Dian_chai_system.用户账号修改界面.resources
